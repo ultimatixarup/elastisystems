@@ -13,4 +13,7 @@ label {
     letter-spacing: 0.1em;
     margin-bottom: 20px;
 }
+h2 {
+    text-shadow: 3px 2px red;
+}
 
